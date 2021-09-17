@@ -1,4 +1,4 @@
-1.	Crear Base de datos Script:
+Crear Base de datos Script:
 CREATE SCHEMA `museo` DEFAULT CHARACTER SET utf8 ;
 USE `museo`;
 CREATE TABLE Museo (
